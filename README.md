@@ -1,4 +1,6 @@
 # Notes
+Посмотреть проект:
+http://fe.it-academy.by/Sites/0041992/louvre.html
 
 Требования к выпускному проекту
 
