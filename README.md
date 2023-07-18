@@ -1,12 +1,12 @@
 # Notes
-Посмотреть проект:
+To view the project:
 http://fe.it-academy.by/Sites/0041992/louvre.html
 
-Требования к выпускному проекту
+Requirements for the graduation project:
 
-- Проект представляет собой веб-сайт.
-- Сайт должен содержать минимум 5 страниц.
-- Сайт должен быть наполнен реалистичным, осмысленным контентом.
-- Сайт должен быть свёрстан вручную, без применения каких-либо визуальных редакторов и сервисов (например, Microsoft FrontPage, Adobe Dreamweaver, Tilda). Использование среды разработки сайтов (СРС) на сайте ОЦ ПВТ не запрещается (она не является визуальным редактором).
-- На сайте могут быть использованы любые сторонние библиотеки и фреймворки (например, jQuery) при условии полного понимания, зачем они нужны.
-- На сайте могут быть использованы любые сторонние компоненты (например, слайдер фотографий) при условии их бесшовной интеграции в проект и полного понимания, как они настраиваются.
+- The project is a website.
+- The website must consist of a minimum of 5 pages.
+- The website should be filled with realistic and meaningful content.
+- The website should be hand-coded, without the use of any visual editors or services (e.g., Microsoft FrontPage, Adobe Dreamweaver, Tilda). The use of a web development environment (WDE) on the website of the Training Center for Information - - Technologies (TCIT) is allowed (it is not considered a visual editor).
+- Any third-party libraries and frameworks (e.g., jQuery) can be used on the website, provided there is a full understanding of their purpose.
+- Any third-party components (e.g., photo sliders) can be used on the website, as long as they are seamlessly integrated into the project and there is a full understanding of how to configure them.
